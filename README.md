@@ -28,13 +28,6 @@ Few web application built using ASP.NET Core that allows users to manage tasks a
 
 ## 📁 Project Structure
 - Updating
-/ProjectName
-│
-├── ProjectName.Web # ASP.NET Core Web project
-├── ProjectName.Data # Data access layer
-├── ProjectName.Services # Business logic
-├── ProjectName.Tests # Unit & integration tests
-└── ProjectName.sln # Solution file
 
 ## ⚙️ Getting Started
 
