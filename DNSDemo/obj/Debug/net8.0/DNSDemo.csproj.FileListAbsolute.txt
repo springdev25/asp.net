@@ -1,0 +1,14 @@
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.AssemblyInfoInputs.cache
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.AssemblyInfo.cs
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\DNSDemo\bin\Debug\net8.0\DNSDemo.exe
+C:\Users\THINH\source\repos\DNSDemo\bin\Debug\net8.0\DNSDemo.deps.json
+C:\Users\THINH\source\repos\DNSDemo\bin\Debug\net8.0\DNSDemo.runtimeconfig.json
+C:\Users\THINH\source\repos\DNSDemo\bin\Debug\net8.0\DNSDemo.dll
+C:\Users\THINH\source\repos\DNSDemo\bin\Debug\net8.0\DNSDemo.pdb
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.dll
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\refint\DNSDemo.dll
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.pdb
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\DNSDemo.genruntimeconfig.cache
+C:\Users\THINH\source\repos\DNSDemo\obj\Debug\net8.0\ref\DNSDemo.dll
