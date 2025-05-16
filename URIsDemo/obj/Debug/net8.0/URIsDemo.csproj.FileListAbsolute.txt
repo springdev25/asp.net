@@ -1,0 +1,14 @@
+C:\Users\THINH\source\repos\URIsDemo\bin\Debug\net8.0\URIsDemo.exe
+C:\Users\THINH\source\repos\URIsDemo\bin\Debug\net8.0\URIsDemo.deps.json
+C:\Users\THINH\source\repos\URIsDemo\bin\Debug\net8.0\URIsDemo.runtimeconfig.json
+C:\Users\THINH\source\repos\URIsDemo\bin\Debug\net8.0\URIsDemo.dll
+C:\Users\THINH\source\repos\URIsDemo\bin\Debug\net8.0\URIsDemo.pdb
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.AssemblyInfoInputs.cache
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.AssemblyInfo.cs
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.dll
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\refint\URIsDemo.dll
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.pdb
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\URIsDemo.genruntimeconfig.cache
+C:\Users\THINH\source\repos\URIsDemo\obj\Debug\net8.0\ref\URIsDemo.dll
