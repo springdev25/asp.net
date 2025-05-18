@@ -1,0 +1,14 @@
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.exe
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.deps.json
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.runtimeconfig.json
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.dll
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.pdb
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.AssemblyInfoInputs.cache
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.AssemblyInfo.cs
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.dll
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\refint\WebRequest&WebResponseDemo.dll
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.pdb
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.genruntimeconfig.cache
+C:\Users\THINH\source\repos\WebRequest&WebResponseDemo\obj\Debug\net8.0\ref\WebRequest&WebResponseDemo.dll
