@@ -1,0 +1,14 @@
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.AssemblyInfoInputs.cache
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.AssemblyInfo.cs
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\TaskDemonstration-01\bin\Debug\net8.0\TaskDemonstration-01.exe
+C:\Users\THINH\source\repos\TaskDemonstration-01\bin\Debug\net8.0\TaskDemonstration-01.deps.json
+C:\Users\THINH\source\repos\TaskDemonstration-01\bin\Debug\net8.0\TaskDemonstration-01.runtimeconfig.json
+C:\Users\THINH\source\repos\TaskDemonstration-01\bin\Debug\net8.0\TaskDemonstration-01.dll
+C:\Users\THINH\source\repos\TaskDemonstration-01\bin\Debug\net8.0\TaskDemonstration-01.pdb
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.dll
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\refint\TaskDemonstration-01.dll
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.pdb
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\TaskDemonstration-01.genruntimeconfig.cache
+C:\Users\THINH\source\repos\TaskDemonstration-01\obj\Debug\net8.0\ref\TaskDemonstration-01.dll
