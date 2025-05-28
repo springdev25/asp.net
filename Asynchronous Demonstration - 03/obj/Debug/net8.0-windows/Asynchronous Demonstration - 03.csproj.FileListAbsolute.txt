@@ -1,0 +1,19 @@
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\bin\Debug\net8.0-windows\Asynchronous Demonstration - 03.exe
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\bin\Debug\net8.0-windows\Asynchronous Demonstration - 03.deps.json
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\bin\Debug\net8.0-windows\Asynchronous Demonstration - 03.runtimeconfig.json
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\bin\Debug\net8.0-windows\Asynchronous Demonstration - 03.dll
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\bin\Debug\net8.0-windows\Asynchronous Demonstration - 03.pdb
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03_MarkupCompile.cache
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.g.resources
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.AssemblyInfoInputs.cache
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.AssemblyInfo.cs
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.dll
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\refint\Asynchronous Demonstration - 03.dll
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.pdb
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\Asynchronous Demonstration - 03.genruntimeconfig.cache
+C:\Users\THINH\source\repos\Asynchronous Demonstration - 03\obj\Debug\net8.0-windows\ref\Asynchronous Demonstration - 03.dll
